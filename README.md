@@ -13,7 +13,12 @@ To be uploaded as a seperate repository at a later date.
 
 
 Heroku link: https://mushroom-image-classifier.herokuapp.com/
+
 ![image](https://user-images.githubusercontent.com/41842178/177836313-6b735398-c447-468e-b15f-1e6e88c1cf26.png)
 
-Working Example:
+# Working Example:
+
 ![image](https://user-images.githubusercontent.com/41842178/177837350-68aaa446-71ee-47a6-a746-d32125a96cb5.png)
+
+# About
+This image classifier was created to receive images of mushrooms and identify them. Currently trained on a dataset consisting of 5 of the most common species found in NA. 
